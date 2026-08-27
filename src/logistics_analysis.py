@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 
 # Load dataset
 # Replace the filename with your actual dataset file.
-df = pd.read_csv("smart_logistics_supply_chain.csv")
+df = pd.read_csv("data/smart_logistics_dataset.csv")
 
 # ------------------------------------------
 # 1. Basic Data Exploration
